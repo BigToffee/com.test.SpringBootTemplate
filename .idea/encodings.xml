@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_parent/test_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_parent/test_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_parent/test_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_parent/test_model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common_parent/test_service" charset="UTF-8" />
+  </component>
+</project>

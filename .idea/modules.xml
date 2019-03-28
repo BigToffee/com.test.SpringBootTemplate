@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common_parent/common_parent.iml" filepath="$PROJECT_DIR$/common_parent/common_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_parent/test_api/test_api.iml" filepath="$PROJECT_DIR$/common_parent/test_api/test_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_parent/test_dao/test_dao.iml" filepath="$PROJECT_DIR$/common_parent/test_dao/test_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_parent/test_manager/test_manager.iml" filepath="$PROJECT_DIR$/common_parent/test_manager/test_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_parent/test_model/test_model.iml" filepath="$PROJECT_DIR$/common_parent/test_model/test_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common_parent/test_service/test_service.iml" filepath="$PROJECT_DIR$/common_parent/test_service/test_service.iml" />
+    </modules>
+  </component>
+</project>
